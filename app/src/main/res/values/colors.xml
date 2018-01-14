@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#bf3061</color>
+    <color name="colorPrimaryDark">#996e64</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="fab1_color">#2196F3</color>
+    <color name="background">#996e64</color>
+    <color name="menu">#bf3061</color>
+</resources>
